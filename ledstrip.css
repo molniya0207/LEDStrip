@@ -28,7 +28,7 @@ li {
 .ledstrip {
   display: block;
   float: left;
-  height: 16px;
+  height: 64px;
   border: 1px solid #888;
   background-color: #444;
   clear: right;
@@ -47,8 +47,8 @@ li {
 
 .ledlight, .WS2812-led {
     display: block;
-    width: 10px;
-    height: 10px;
+    width: 58px;
+    height: 58px;
     float: left;
     border: 1px solid #666;
     background-color: #000;
